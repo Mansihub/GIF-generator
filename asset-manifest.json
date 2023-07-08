@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GIF-generator/static/css/main.c6dd863e.css",
+    "main.js": "/GIF-generator/static/js/main.d5764f7d.js",
+    "index.html": "/GIF-generator/index.html",
+    "main.c6dd863e.css.map": "/GIF-generator/static/css/main.c6dd863e.css.map",
+    "main.d5764f7d.js.map": "/GIF-generator/static/js/main.d5764f7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6dd863e.css",
+    "static/js/main.d5764f7d.js"
+  ]
+}
